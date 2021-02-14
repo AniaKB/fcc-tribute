@@ -1,0 +1,36 @@
+h1, h4 {text-align: center;
+    font-family: courier new;
+  }
+  img {
+    width:70%;
+    height: auto;
+    max-width: 625px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  * {
+    font-family: monospace !important;
+    background: #c2bda7;
+  }
+  
+  #img-caption {
+    text-align: center;
+    background: #ede7cc;
+    padding: 10px;
+    font-size: 12px;
+  }
+  
+  p{
+    font-size: 14px;
+    margin: 20px;
+    padding:5px;
+    border:5px;
+    line-height:180%;
+  }
+  
+  ul{
+    margin: 0px 60px 0px 25px;
+     line-height:150%;
+  }
